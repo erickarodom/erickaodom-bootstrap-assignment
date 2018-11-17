@@ -1,0 +1,21 @@
+
+.navbar {
+  background-color:#8f8681 !important;
+ }
+.navbar .navbar-brand, .nav-item .nav-link{
+  color: white;
+}
+.jumbotron {
+  background:#e1dcd9;
+  margin-bottom: 0;
+  
+}
+.sec-1, .sec-2 {
+   text-align:center;
+   padding: 1.5em 1em .5em 1em;
+   background-color: #e1dcd9;
+}
+
+.card {
+  margin: 1em auto;
+}

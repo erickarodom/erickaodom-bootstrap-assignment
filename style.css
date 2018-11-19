@@ -1,21 +1,71 @@
-
+/*Navigation*/
 .navbar {
   background-color:#8f8681 !important;
  }
-.navbar .navbar-brand, .nav-item .nav-link{
-  color: white;
+.navbar.navbar-light .navbar-brand,  .navbar-nav .nav-item .nav-link {
+  color: #ffffff;
+  text-shadow: .5px .5px rgb(52, 58, 64);
 }
+.navbar-light .navbar-nav .nav-link {
+padding: 0 3em;
+}
+
+/*Jumbotron*/
 .jumbotron {
   background:#e1dcd9;
   margin-bottom: 0;
-  
+}
+
+/*Main Content*/
+.card {
+  margin: 1em auto;
+}
+.card .card-body {
+  text-align: center;
+}
+ .btn-primary{
+  background-color: #a67f78;
+  border-color:#e1dcd9;
+  color: white;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: rgb(52, 58, 64);
+  border-color: rgb(52, 58, 64);
+  box-shadow: 1px 1.5px rgba(52, 58, 64,.5);
 }
 .sec-1, .sec-2 {
    text-align:center;
    padding: 1.5em 1em .5em 1em;
    background-color: #e1dcd9;
 }
+/* .sec-2 {             Wasn't sure if I should have a gutter between last section
+  margin-bottom: 1em;   and start of footer. Decided to match look of header for consistency.
+} */                    
 
-.card {
-  margin: 1em auto;
+/*Footer*/
+footer.container {
+  background-color: #8f8681!important;
 }
+.soc-md .fab, .footer-text a{
+  color: #fff;
+  text-decoration: none;
+}
+.footer{
+ text-align: center;
+ padding: 1em;
+}
+.footer-text{
+ padding:.7em;
+}
+
+
+
+
+
+
+
+
+
+
+

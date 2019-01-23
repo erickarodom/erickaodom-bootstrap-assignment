@@ -22,3 +22,5 @@
 9.Suprisingly the most difficult part of my page was putting the footer together.  At first I tried to use a navbar but was pressed for     time and struggled understanding everything.  My solution was to use row and column system and flush it out with custom CSS.  There are   additional elements in BS I could have used but wanted to finalize the project and move on.
 
 10.Even though BS is on the decline, this is an excellent learning tool not just for the obvious visual and time saving reasons, instead      what I valued most was my time in the documentation, the problem solving and final implementation.  That is what I got most of all from    this project.
+
+https://htmlpreview.github.io/?https://github.com/erickarodom/erickaodom-bootstrap-assignment/blob/master/index.html

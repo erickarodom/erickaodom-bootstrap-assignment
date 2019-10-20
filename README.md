@@ -1,5 +1,5 @@
 # erickaodom-bootstrap-assignment
-1.Began project with Bootstrap getting started code.
+1.Began project with Bootstrap.
 
 2.Selected 6 photos that fit a common theme.
 
